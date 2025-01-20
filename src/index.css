@@ -1,0 +1,21 @@
+form{
+     display: flex;
+     flex-direction: column;
+}
+#textarea{
+     height: 90vh;
+     border-radius: 10px;
+     border: 5px solid red;
+}
+.btn{
+     border: none;
+     border-radius: 10px;
+     color: black;
+     box-shadow: 2px 2px 2px black;
+     padding: 10px;
+     margin: 5px;
+}
+.inputs{
+     border-radius: 10px;
+
+}
